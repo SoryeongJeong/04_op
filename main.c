@@ -7,7 +7,6 @@ int main(int argc, char *argv[]) {
 	int x;
 	int y;
 	
-	int;
 	printf("input two integers : ");
 	scanf("%d %d", &x, &y );
 	
